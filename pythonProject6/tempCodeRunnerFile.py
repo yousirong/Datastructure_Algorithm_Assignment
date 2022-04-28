@@ -1,0 +1,1 @@
+t(random.sample(range(0,10),7))
